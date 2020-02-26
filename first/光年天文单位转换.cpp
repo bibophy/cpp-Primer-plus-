@@ -1,6 +1,6 @@
 //#include<iostream>
 //
-//long int light(double value);              //函数原型
+//long int light(double value);              //鍑芥暟鍘熷瀷
 //using namespace std;
 //int main(void)
 //{
@@ -9,12 +9,12 @@
 //	cout << "Please enter the light year :";
 //	cin >> light_years;
 //
-//	astronomical = light(light_years);     //调用light函数
+//	astronomical = light(light_years);     //璋冪敤light鍑芥暟
 //	cout << light_years << " light years = " << astronomical << " astronomical units";
 //	
 //	return 0;
 //}
-//long int light(double value)            //light函数接受一个double类型的数并返回一个长整型的数
+//long int light(double value)            //light鍑芥暟鎺ュ彈涓�涓猟ouble绫诲瀷鐨勬暟骞惰繑鍥炰竴涓暱鏁村瀷鐨勬暟
 //{
 //	return value * 63240;
 //}
