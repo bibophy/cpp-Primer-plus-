@@ -1,20 +1,20 @@
 //#include<iostream>
 //
-//double temperature(int value);    //µ÷ÓÃµÄº¯ÊıÔ­ĞÍ£»
+//double temperature(int value);    //è°ƒç”¨çš„å‡½æ•°åŸå‹ï¼›
 //using namespace std;
 //int main(void)
 //{
 //	int celsius ;
 //	cout << "Please enter a Celsius value:";
 //	cin >> celsius;
-//	double fahrenheit = temperature(celsius);   //µ÷ÓÃtemperatureº¯Êı
+//	double fahrenheit = temperature(celsius);   //è°ƒç”¨temperatureå‡½æ•°
 //
 //	cout << celsius << " degrees Celsius is " << fahrenheit << " degrees Fahrenheit.";
 //
 //	return 0;
 //}
 //
-//double temperature(int value)  //temperatureº¯Êı½ÓÊÜÒ»¸öÕûÊıÀàĞÍÊı×Ö²¢·µ»ØÒ»¸ödoubleÀàĞÍÊı
+//double temperature(int value)  //temperatureå‡½æ•°æ¥å—ä¸€ä¸ªæ•´æ•°ç±»å‹æ•°å­—å¹¶è¿”å›ä¸€ä¸ªdoubleç±»å‹æ•°
 //{
 //	return  1.8 * value + 32.0;
 //	
