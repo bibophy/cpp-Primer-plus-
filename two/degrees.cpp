@@ -9,7 +9,7 @@
 //	cout << "Next,enter the minutes:"; cin >> minutes;
 //	cout << "Finally,enter the seconds:"; cin >> seconds;
 //	double x, y;
-//	x = double(minutes) / 60;               //Ç¿ÖÆ×ª»»³Édouble½øĞĞÔËËã£¬È·±£¾«¶È
+//	x = double(minutes) / 60;               //å¼ºåˆ¶è½¬æ¢æˆdoubleè¿›è¡Œè¿ç®—ï¼Œç¡®ä¿ç²¾åº¦
 //	y = double(seconds) / 3600;
 //
 //	cout << degrees << "degrees , " << int(minutes) << "minutes , " << int(seconds) << "seconds = " << double(degrees) + x + y << " degrees ";
