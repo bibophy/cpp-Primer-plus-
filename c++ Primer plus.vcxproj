@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="degrees.cpp" />
-    <ClCompile Include="The_U.S._population.cpp" />
+    <ClCompile Include="getline_intstr.cpp" />
+    <ClCompile Include="get_intstr.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

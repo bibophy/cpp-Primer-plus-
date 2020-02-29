@@ -13,16 +13,13 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="源文件\c++ two days">
-      <UniqueIdentifier>{a0bb1023-a5aa-429d-a4a9-abc9d608cadb}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="degrees.cpp">
-      <Filter>源文件\c++ two days</Filter>
+    <ClCompile Include="getline_intstr.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="The_U.S._population.cpp">
-      <Filter>源文件\c++ two days</Filter>
+    <ClCompile Include="get_intstr.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
