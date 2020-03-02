@@ -8,11 +8,11 @@
 //	char dessert[Arsize];
 //
 //	cout << "Enter your name:\n";
-//	cin.getline(name, Arsize);     //read through newline
+//	cin.get(name, Arsize).get();     //read string ,and get a newline
 //	cout << "Enter your favorite dessert:\n";
-//	cin.getline(dessert, Arsize);
+//	cin.get(dessert, Arsize).get();
 //	cout << "I have some delicious " << dessert;
-//	cout << "for you, " << name << endl;
+//	cout << " for you, " << name << endl;
 //
 //	system("pause");
 //	return 0;
