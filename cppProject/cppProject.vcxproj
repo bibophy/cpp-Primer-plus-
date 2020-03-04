@@ -141,6 +141,7 @@
     <ClCompile Include="account.cpp" />
     <ClCompile Include="arrstruct.cpp" />
     <ClCompile Include="debugging.cpp" />
+    <ClCompile Include="ptrstr.cpp" />
     <ClCompile Include="wagecalculator.cpp" />
     <ClCompile Include="混合输入字符串和数字.cpp" />
   </ItemGroup>
