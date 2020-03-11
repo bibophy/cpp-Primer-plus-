@@ -15,22 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="account.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="arrstruct.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="debugging.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="混合输入字符串和数字.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="wagecalculator.cpp">
+    <ClCompile Include="ptrstr.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="ptrstr.cpp">
+    <ClCompile Include="newstrct.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="delete.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="name_age.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
