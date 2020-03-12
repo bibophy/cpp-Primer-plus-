@@ -18,6 +18,17 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Stock.cpp" />
+    <ClCompile Include="Stock01.cpp" />
+    <ClCompile Include="usestock01.cpp" />
+    <ClCompile Include="字符串倒装.cpp" />
+    <ClCompile Include="阶乘.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Stock00.h" />
+    <ClInclude Include="Stock01.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{2BBE7FD1-E9A9-46BB-8128-7553F6CBF85D}</ProjectGuid>
@@ -137,14 +148,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="delete.cpp" />
-    <ClCompile Include="name_age.cpp" />
-    <ClCompile Include="newstrct.cpp" />
-    <ClCompile Include="ptrstr.cpp" />
-    <ClCompile Include="string.cpp" />
-    <ClCompile Include="混合输入字符串和数字.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

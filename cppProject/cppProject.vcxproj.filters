@@ -15,23 +15,28 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="混合输入字符串和数字.cpp">
+    <ClCompile Include="阶乘.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="ptrstr.cpp">
+    <ClCompile Include="字符串倒装.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="newstrct.cpp">
+    <ClCompile Include="Stock.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="delete.cpp">
+    <ClCompile Include="Stock01.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="name_age.cpp">
+    <ClCompile Include="usestock01.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="string.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Stock00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Stock01.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
