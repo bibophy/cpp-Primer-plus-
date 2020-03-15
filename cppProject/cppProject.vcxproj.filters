@@ -15,28 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="阶乘.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="字符串倒装.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Stock.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Stock01.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="usestock01.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
+    <ClInclude Include="Stack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Stock00.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="Stock01.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
+    <ClCompile Include="Stacker.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

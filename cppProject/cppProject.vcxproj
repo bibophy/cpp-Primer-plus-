@@ -19,15 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Stock.cpp" />
-    <ClCompile Include="Stock01.cpp" />
-    <ClCompile Include="usestock01.cpp" />
-    <ClCompile Include="字符串倒装.cpp" />
-    <ClCompile Include="阶乘.cpp" />
+    <ClInclude Include="Stack.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Stock00.h" />
-    <ClInclude Include="Stock01.h" />
+    <ClCompile Include="Stacker.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
