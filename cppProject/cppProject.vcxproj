@@ -19,10 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Stack.h" />
+    <ClInclude Include="Complex.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Stacker.cpp" />
+    <ClCompile Include="Complex.cpp" />
+    <ClCompile Include="ComplexM.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
