@@ -19,11 +19,18 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Card.h" />
     <ClInclude Include="Complex.h" />
+    <ClInclude Include="date.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Card.cpp" />
     <ClCompile Include="Complex.cpp" />
     <ClCompile Include="ComplexM.cpp" />
+    <ClCompile Include="date.cpp" />
+    <ClCompile Include="dateM.cpp" />
+    <ClCompile Include="Debugging.cpp" />
+    <ClCompile Include="源.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

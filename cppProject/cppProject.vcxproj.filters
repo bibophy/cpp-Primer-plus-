@@ -18,12 +18,33 @@
     <ClInclude Include="Complex.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="date.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Card.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ComplexM.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Complex.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dateM.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="date.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Card.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Debugging.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
